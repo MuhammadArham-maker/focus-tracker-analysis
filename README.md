@@ -94,6 +94,15 @@ A few questions became more interesting as I explored the entries:
 
 The full reasoning, numbers, and limitations are in [`docs/INSIGHTS.md`](docs/INSIGHTS.md). The chronological story is in [`docs/DEVELOPMENT_LOG.md`](docs/DEVELOPMENT_LOG.md).
 
+## Project videos
+
+I recorded four videos during this project, documenting its development from the initial data-collection design to the final analysis. They provide a closer look at the decisions, progress, challenges, and reflections behind the numbers.
+
+- **[Part 3 — Beyond the Certificate: Building My Real Data Pipeline](https://youtu.be/__dXH9GgBHc?t=1362)** (12 May 2026): Choosing post-session Focus Density ratings instead of real-time Drift Catching. Also see the [tracking and anti-fatigue rules](https://youtu.be/__dXH9GgBHc?t=2451).
+- **[25+ Entries in 48 Hours: The Focus Data is Rolling In](https://youtu.be/d1ASyFmt0nA?t=409)** (14 May 2026): An early look at the Google Forms responses and the first patterns emerging from the collected data.
+- **[Part 4 — 70+ Data Entries & A Huge Lab Milestone Unlocked!](https://youtu.be/m1_zzu41ga0?t=144)** (21 May 2026): Reaching 70+ entries, the break in data collection, and restarting the tracking process.
+- **[Part 5 — Project Complete 100%: The Life of a Data Analyst](https://youtu.be/gwVauXLdDHU?t=737)** (26 May 2026): The final analysis, including the Flow Assassin. Also see the [time-block and activity pivot tables](https://youtu.be/gwVauXLdDHU?t=1824) and [why charts need context](https://youtu.be/gwVauXLdDHU?t=2300).
+
 ## Analysis workbook
 
 [`analysis/Focus_Tracker_Analysis.xlsx`](analysis/Focus_Tracker_Analysis.xlsx) contains:
